@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7038
     wikipedia: http://en.wikipedia.org/wiki/Charles_Gore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32673#St.-Paul-s-Epistle-to-the-Romans--A-Practical-Exposition.-Vol.-I
 gutenberg_issued: '2010-06-03'
 gutenberg_type: Text
 identifiers:
